@@ -1,0 +1,11 @@
+{
+  "name": "Sneaker Heads",
+  "short_name": "sneakerheads",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "crossorigin": "use-credentials"
+}
